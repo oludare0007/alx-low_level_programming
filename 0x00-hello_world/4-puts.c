@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * Description: main - printing a line with puts function
  * Return: 0

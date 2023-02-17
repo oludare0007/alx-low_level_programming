@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * main - program to assign ramdom number to a variable each time it is executed
  *
  * Return: Always 0 (Success)
  */

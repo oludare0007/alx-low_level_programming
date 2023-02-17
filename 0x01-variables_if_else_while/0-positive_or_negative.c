@@ -21,7 +21,7 @@ int main(void)
 		}
 		else if (n == 0)
 		{
-			ptintf("5d is zero\n", n);
+			printf("5d is zero\n", n);
 		}
 		else
 		{

@@ -2,7 +2,7 @@
 
 
 /**
- * main - program that print all singlr digit of base 10 
+ * main - program that print all singlr digit of base 10
  *
  * Return: Always 0 (Success)
  */

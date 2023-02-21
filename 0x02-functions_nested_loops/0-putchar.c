@@ -2,10 +2,10 @@
 
 /**
  * main - entery
- * Return: (0) 
+ * Return: (0)
  */
 
-int main()
+int main(void)
 {
 
 	_putchar('_');
